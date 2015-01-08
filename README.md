@@ -38,7 +38,7 @@ Quando o emoticon **(=^・ｪ・^=)** estiver no tópico significa que a zoeira 
   * -Se seu post tem relação com programação ele não precisa de tag nenhuma, se você quiser pode colocar a linguagem para facilitar (EX: [C#], [Cobol], etc.)
   * -Se seu post não tem relação com programação mas sim com TI ou computação em geral utilize a tag [OFF]
   * -Se seu post é uma pergunta sobre windows ou linux (EX: Suporte técnico) utilize as tags [Suporte Windows], [Suporte Linux Debian], [Suporte Slackware], enfim, coloque o sistema operacional para ser mais fácil de identificar.
--Se seu post não tem nenhuma relação com informática ele será deletado.
+  * -Se seu post não tem nenhuma relação com informática ele será deletado.
 *   **24** - Não pode usar `<blink>`! (O `<marquee>` tá liberado.)
 *   **25** - Coisas de "computeiro" não são bem vindas. Nada de compartilhar coisas do "Tequimundo" porque não tem graça, nem sobre Baidu ou essas coisas que usuário doméstico fica instalando no próprio computador.
 *   **26** - Não pode postar que criou um grupo no Whatsapp. Os números de telefones de todo mundo que responder serão jogados no bate-papo da UOL e em seguida serão incluídos em sistemas de spam por SMS. Depois não digam que não foram avisados!
