@@ -22,9 +22,10 @@
 *   **14** - Nunca, jamais, sobre nenhuma circunstância, separe predicado por vírgula. Quem separar predicado por vírgula aqui será violentado, defenestrado e então linchado. Outros erros de português são tolerados - mas não abuse.
 *   **15** - Evitem usar o anexo da página do face. Para isso usem sites especificos para colocar seu código: 
   * http://pastebin.com/
-  * http://codepad.org
-  * http://ideone.com
-  * http://jsfiddle.net
+  * http://codepad.org/
+  * http://ideone.com/
+  * http://jsfiddle.net/
+  * http://sqlfiddle.com/
 *   **16** - Você é livre para postar o seu Website no A.P.D.A. DESDE QUE seja relacionado ao assunto e seja de ajuda aos membros.
 *   **17** - Links para outros grupos de TI ou coisas do tipo são proibidos. Apenas links para outros grupos de áreas relacionadas (por exemplo eletrônica) serão permitidos caso seja feito um pedido para um dos Administradores.
 *   **18** - Todos podem falar palavrão (não a vontis, usem o bom senso) caso sejam expressões de linguagem, usadas para se expressar, de boa fé e sem intuitos ofensivos (vide regra 3).
