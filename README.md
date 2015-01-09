@@ -25,7 +25,8 @@
   * http://codepad.org/
   * http://ideone.com/
   * http://jsfiddle.net/
-  * http://sqlfiddle.com/ 
+  * http://sqlfiddle.com/
+  * http://gist.github.com/
     * **15.1** - Códigos indentados e cheirosinhos são mais fáceis de entender, então indente antes de postar.
 *   **16** - Você é livre para postar o seu Website no A.P.D.A. DESDE QUE seja relacionado ao assunto e seja de ajuda aos membros.
 *   **17** - Links para outros grupos de TI ou coisas do tipo são proibidos. Apenas links para outros grupos de áreas relacionadas (por exemplo eletrônica) serão permitidos caso seja feito um pedido para um dos Administradores.
