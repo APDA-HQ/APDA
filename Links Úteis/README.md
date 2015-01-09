@@ -18,5 +18,5 @@ Eu vou começar com um editor de MarkDown, por que o github tem um editor muito 
 #### Textos e discussões relevantes e/ou comuns
 
 - [O que é Programação Orientada à
-  Objetos?](https://gist.github.com/robotlolita/11252065) - Texto do
+  Objetos?](https://gist.github.com/robotlolita/11252065) - Texto da
   [Quildreen Motta](https://github.com/robotlolita)
