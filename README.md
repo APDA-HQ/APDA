@@ -7,9 +7,9 @@
 
 *   **0** - Conheça as regras!
 *   **1** - QUALQUER um que desrespeitar outro usuário, será banido do grupo.
-*   **2** - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código, se quer   algo completo pague um programador pra isso.
+*   **2** - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código, se quiser   algo completo pague um programador pra isso.
 *   **3** - O grupo é dedicado a troca de informações, portando xingamentos, palavras de baixo calão que ofendam membros, e coisas do tipo NÃO serão toleradas. Caso o usuário prossiga falando palavras assim, serão tomadas providencias.
-*   **4** - Lembre-se, nem todos tem o mesmo conhecimento que você. Saiba respeitar a dificuldade do outro em aprender. Afinal, tempos atrás você também não sabia.
+*   **4** - Lembre-se, nem todos tem o mesmo conhecimento que você. Saiba respeitar a dificuldade do outro em aprender, afinal, tempos atrás você também não sabia.
 *   **5** - Tenha paciência, nem todos estão aqui 24h para te ajudar, nem todos tem paciência para ajudar e nem todos querem ajudar.
 *   **6** - Não faremos o projeto todo para você, o grupo é feito pra te ajudar a aprender e não fazer por você.
 *   **7** - Não saia postando em vários lugares a mesma coisa. Se quer ajuda crie UM tópico no local correto.
@@ -26,6 +26,7 @@
   * http://ideone.com/
   * http://jsfiddle.net/
   * http://sqlfiddle.com/ 
+    * **15.1** - Códigos indentados e cheirosinhos são mais fáceis de entender, então indente antes de postar.
 *   **16** - Você é livre para postar o seu Website no A.P.D.A. DESDE QUE seja relacionado ao assunto e seja de ajuda aos membros.
 *   **17** - Links para outros grupos de TI ou coisas do tipo são proibidos. Apenas links para outros grupos de áreas relacionadas (por exemplo eletrônica) serão permitidos caso seja feito um pedido para um dos Administradores.
 *   **18** - Todos podem falar palavrão (não a vontis, usem o bom senso) caso sejam expressões de linguagem, usadas para se expressar, de boa fé e sem intuitos ofensivos (vide regra 3).
@@ -34,7 +35,7 @@
 *   **21** - O Gato da Seriedade.
 O grupo tolera brincadeiras e desvios de assuntos, pois todos somos depressivos e precisamos nos divertir; porém há momentos em que seriedade é necessária - tanto por posts dos administradores, quanto para alguns casos dos próprios membros (geralmente é o caso de enquetes abertas).
 Quando o emoticon **(=^・ｪ・^=)** estiver no tópico significa que a zoeira será muito mais limitada dentro, e que o tópico tem intenções sérias, e a moderação será mais rígida. Usuários podem usar o Gato da Seriedade, porém há um limite - levarão um puxão de orelha se usarem com frequência.
-*   **22** - Se for perguntar algo, pergunte por aqui e não por mensagem na caixa de entrada. A sua dúvida pode ser a de mais pessoas. Eu não acho que deveria existir uma regra como essa, ela não deveria existir por que todos que fossem perguntar algo deveriam perguntar abertamente. Mas anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
+*   **22** - Se for perguntar algo, pergunte pelo facebook e não por mensagem na caixa de entrada. A sua dúvida pode ser a de mais pessoas. Eu não acho que deveria existir uma regra como essa, ela não deveria existir por que todos que fossem perguntar algo deveriam perguntar abertamente. Mas anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
 *   **23** - TAGS:
   * -Se seu post tem relação com programação ele não precisa de tag nenhuma, se você quiser pode colocar a linguagem para facilitar (EX: [C#], [Cobol], etc.)
   * -Se seu post não tem relação com programação mas sim com TI ou computação em geral utilize a tag [OFF]
