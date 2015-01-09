@@ -5,6 +5,9 @@
     |  _ <  __/ (_| | | | (_| \__ \  / ___ \|  __/| |_| / ___ \ 
     |_| \_\___|\__, |_|  \__,_|___/ /_/   \_\_|   |____/_/   \_\
                |___/                                            
+
+Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wiki) 
+
 ##Conheça as regras!
 
    
