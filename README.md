@@ -56,7 +56,8 @@
    - *[ Não substitui as Regras de convivencia ]*
  - Você é livre para postar o seu Website no A.P.D.A. DESDE QUE seja relacionado ao assunto e seja de ajuda aos membros. 
 - #### 3.4 Não Desejadas   
-  - Coisas de "computeiro" não são bem vindas. Nada de compartilhar coisas do "Tequimundo" porque não tem graça, nem sobre Baidu ou essas coisas que usuário doméstico fica instalando no próprio computador.
+  - Coisas de "computeiro" não são bem vindas. 
+    - Nada de compartilhar coisas do "Tequimundo" porque não tem graça, nem sobre Baidu ou essas coisas que usuário doméstico fica instalando no próprio computador.
 - #### 3.5 Inaceitavel
  - Se seu post não tem nenhuma relação com informática ele será deletado.
  - Não ressuscitar tópicos antigos. 
