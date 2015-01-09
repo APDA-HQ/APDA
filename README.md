@@ -35,7 +35,7 @@
 *   **21** - O Gato da Seriedade.
 O grupo tolera brincadeiras e desvios de assuntos, pois todos somos depressivos e precisamos nos divertir; porém há momentos em que seriedade é necessária - tanto por posts dos administradores, quanto para alguns casos dos próprios membros (geralmente é o caso de enquetes abertas).
 Quando o emoticon **(=^・ｪ・^=)** estiver no tópico significa que a zoeira será muito mais limitada dentro, e que o tópico tem intenções sérias, e a moderação será mais rígida. Usuários podem usar o Gato da Seriedade, porém há um limite - levarão um puxão de orelha se usarem com frequência.
-*   **22** - Se for perguntar algo, pergunte pelo facebook e não por mensagem na caixa de entrada. A sua dúvida pode ser a de mais pessoas. Eu não acho que deveria existir uma regra como essa, ela não deveria existir por que todos que fossem perguntar algo deveriam perguntar abertamente. Mas anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
+*   **22** - Se for perguntar algo, pergunte pelo grupo do facebook e não por mensagem na caixa de entrada. A sua dúvida pode ser a de mais pessoas. Eu não acho que deveria existir uma regra como essa, ela não deveria existir por que todos que fossem perguntar algo deveriam perguntar abertamente. Mas anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
 *   **23** - TAGS:
   * -Se seu post tem relação com programação ele não precisa de tag nenhuma, se você quiser pode colocar a linguagem para facilitar (EX: [C#], [Cobol], etc.)
   * -Se seu post não tem relação com programação mas sim com TI ou computação em geral utilize a tag [OFF]
