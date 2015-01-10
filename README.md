@@ -46,14 +46,14 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
 
 ##3 Postagens
 - #### 3.1 Desejadas
- - Usem sites especificos para colocar seu código: 
-   - [PasteBin](http://pastebin.com/)
-   - [CodePad](http://codepad.org/)
-   - [IDEOne](http://ideone.com/)
-   - [JSFiddle](http://jsfiddle.net/)
-   - [SQLFiddle](http://sqlfiddle.com/)  
-   - [GistGITHUB](http://gist.github.com/)
-   
+  - Usem sites especificos para colocar seu código: 
+    - [PasteBin](http://pastebin.com/)
+    - [CodePad](http://codepad.org/)
+    - [IDEOne](http://ideone.com/)
+    - [JSFiddle](http://jsfiddle.net/)
+    - [SQLFiddle](http://sqlfiddle.com/)  
+    - [GistGITHUB](http://gist.github.com/)
+
 - #### 3.2 Aceitavel
  - Erros de português são tolerados. 
    - *[ Não substitui as regras de Ortografia e peculiaridades ]*
