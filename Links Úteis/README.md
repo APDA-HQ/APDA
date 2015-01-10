@@ -14,6 +14,7 @@ Eu vou começar com um editor de MarkDown, por que o github tem um editor muito 
 - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [Learn X in Y Minutes](http://learnxinyminutes.com/)
 - [Programming, Motherfucker](http://programming-motherfucker.com/)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 #### Textos e discussões relevantes e/ou comuns
 
