@@ -18,7 +18,7 @@ Eu vou começar com um editor de MarkDown, por que o github tem um editor muito 
 #### Textos e discussões relevantes e/ou comuns
 
 - [O que é Programação Orientada à
-  Objetos?](https://gist.github.com/robotlolita/11252065) - Texto do
+  Objetos?](https://gist.github.com/robotlolita/11252065) - Texto da
   [Quildreen Motta](https://github.com/robotlolita)
 - [Functional Programming should 
   be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9) - Texto da [Ju Gonçalves](https://github.com/jugoncalves) (Em Inglês)
