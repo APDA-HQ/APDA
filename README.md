@@ -74,7 +74,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
  - NINGUÉM AQUI É CEGO SUFICIENTE PRA NÃO CONSEGUIR LER LETRAS MINÚSCULAS, ESCREVA SEM O CAPSLOCK ! ISSO ATRAPALHA E DEIXA SEU TEXTO CANSATIVO
  - Não pode postar que criou um grupo no **Whatsapp**.
    - Os números de telefones de todo mundo que responder serão jogados no bate-papo da UOL e em seguida serão incluídos em sistemas de spam por SMS. *Depois não digam que não foram avisados!*
-
+ - Não pode postar perguntas do tipo `Alguém já mexeu com *qualquercoisaaqui*?`. Seja direto na sua pergunta, SEMPRE vai ter alguém que já mexeu com o que você quer saber. Tópicos assim serão excluídos após alguém falar `Sim, eu já mexi.`, `Sim, alguém já mexeu` ou coisas similares.
 ####4 TAGS
  - Se seu post tem relação com programação ele não precisa de tag nenhuma, se você quiser pode colocar a linguagem para facilitar (EX: **[C#]**, **[Cobol]**, etc.)
  - *Se seu post não tem relação com programação mas sim com TI ou computação em geral utilize a tag* **[OFF]** 
