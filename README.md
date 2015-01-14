@@ -24,7 +24,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
  - Outros erros de português são tolerados - mas não abuse.
 
 
-####1.1 Convivencia 
+####1.1 Convivência 
    - QUALQUER um que desrespeitar outro usuário, será banido do grupo.
    - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código, se quer   algo completo pague um programador pra isso.
 
@@ -54,7 +54,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
     - [SQLFiddle](http://sqlfiddle.com/)  
     - [GistGITHUB](http://gist.github.com/)
 
-- #### 3.2 Aceitavel
+- #### 3.2 Aceitável
  - Erros de português são tolerados. 
    - *[ Não substitui as regras de Ortografia e peculiaridades ]*
  - Todos podem falar palavrão (não a vontis, usem o bom senso) caso sejam expressões de linguagem, usadas para se expressar, de boa fé e sem intuitos ofensivos. 
@@ -65,7 +65,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
   - Coisas de "computeiro" não são bem vindas. 
     - Nada de compartilhar coisas do "Tequimundo" porque não tem graça, nem sobre Baidu ou essas coisas que usuário doméstico fica instalando no próprio computador.
 
-- #### 3.5 Inaceitavel
+- #### 3.5 Inaceitável
  - Se seu post não tem nenhuma relação com informática ele será deletado.
  - Não ressuscitar tópicos antigos. 
    - Se o tópico que você leu é muito antigo e você tem uma duvida, CRIE um novo tópico. 
