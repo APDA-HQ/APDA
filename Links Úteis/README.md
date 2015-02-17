@@ -16,6 +16,7 @@ Eu vou começar com um editor de MarkDown, por que o github tem um editor muito 
 - [Programming, Motherfucker](http://programming-motherfucker.com/)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Haskell: Primeiros passos e bookmarks](https://gist.github.com/pedropazello/ad01313e7e2a3eab9f46#haskell-primeiros-passos-e-bookmarks)
+- [Documentações de Linguagens](https://gist.github.com/marcoonroad/8a79b0e18dabcdb718c8)
 
 #### Textos e discussões relevantes e/ou comuns
 
