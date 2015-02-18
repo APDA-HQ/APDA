@@ -75,6 +75,8 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
  - Não pode postar que criou um grupo no **Whatsapp**.
    - Os números de telefones de todo mundo que responder serão jogados no bate-papo da UOL e em seguida serão incluídos em sistemas de spam por SMS. *Depois não digam que não foram avisados!*
  - Não pode postar perguntas do tipo `Alguém já mexeu com *qualquercoisaaqui*?` ou `Alguém usa *qualquercoisaaqui*`. Seja direto na sua pergunta. SEMPRE terá alguém que já mexeu com o que você quer saber. Tópicos assim serão excluídos após alguém falar `Sim, eu já mexi.`, `Sim, alguém já mexeu` ou coisas similares.
+ - Evite criar postagens nos moldes "Ask for asking". Isto é, perguntar é indagar, querer respostas a algo que nos desperta a curiosidade. "Perguntar por perguntar", no entanto, não leva a nada. O importante é que ao serem explicitadas, as perguntas gerem um movimento interno, que nos leve a ir em busca das respostas que as resolvam.
+Perguntas tidas como "bobas", não nos parecem merecer crédito, são vistas com indiferença, não nos mobilizam a nada. Ao formular perguntas, devemos nos certificar de sua relevância e da verdadeira necessidade de respostas que resolvam o problema em questão.
 
 ####4 TAGS
  - Se seu post tem relação com programação ele não precisa de tag nenhuma, se você quiser pode colocar a linguagem para facilitar (EX: **[C#]**, **[Cobol]**, etc.)
