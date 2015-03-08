@@ -19,14 +19,14 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
  - Eu não acho que deveria existir uma regra como essa, ela não deveria existir por que todos que fossem perguntar algo deveriam perguntar abertamente. 
  - Mas anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
 - Não faremos o projeto todo para você, o grupo é feito pra te ajudar a aprender e não fazer por você.
-- Nunca, jamais, sobre nenhuma circunstância, separe predicado por vírgula. 
+- Nunca, jamais, sob nenhuma circunstância, separe predicado por vírgula. 
  - Quem separar predicado por vírgula aqui será violentado, defenestrado e então linchado. 
  - Outros erros de português são tolerados - mas não abuse.
 
 
 ####1.1 Convivência 
-   - QUALQUER um que desrespeitar outro usuário, será banido do grupo.
-   - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código, se quer   algo completo pague um programador pra isso.
+   - QUALQUER um que desrespeitar outro usuário será banido do grupo.
+   - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código; se quer algo completo pague um programador pra isso.
 
 ####1.2 Conselhos 
 - Lembre-se, nem todos tem o mesmo conhecimento que você. Saiba respeitar a dificuldade do outro em aprender. Afinal, tempos atrás você também não sabia.
