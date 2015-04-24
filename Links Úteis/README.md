@@ -15,7 +15,7 @@ Eu vou começar com um editor de MarkDown, porque o github tem um editor muito r
 - [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [Learn X in Y Minutes](http://learnxinyminutes.com/)
 - [Programming, Motherfucker](http://programming-motherfucker.com/)
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [Awesome Compilation] (https://github.com/t3chnoboy/awesome-awesome-awesome)
 - [Haskell: Primeiros passos e bookmarks](https://gist.github.com/pedropazello/ad01313e7e2a3eab9f46#haskell-primeiros-passos-e-bookmarks)
 - [Documentações de Linguagens](https://gist.github.com/marcoonroad/8a79b0e18dabcdb718c8)
 
