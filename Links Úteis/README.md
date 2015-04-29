@@ -30,4 +30,4 @@ Eu vou começar com um editor de MarkDown, porque o github tem um editor muito r
   Deve Ser Sua Prioridade número #1 em 2015](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/009-programacao-funcional-prioridade-2015.md)
  (Versão em português traduzida pelo pessoal do [traduz ai](https://github.com/ericdouglas/traduz-ai))
 - ["LÓGICA DE PROGRAMAÇÃO" É BOBAGEM, e explicarei porquê](https://www.facebook.com/groups/osadpa/permalink/488111991294333/) - Texto do [Paulo Torrens](https://github.com/takanuva)
-- Essence and Accident in Software Engineering (http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+- [Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
