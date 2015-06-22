@@ -34,4 +34,14 @@ https://www.facebook.com/groups/osadpa/permalink/701114483327415
 https://www.facebook.com/groups/osadpa/permalink/674688965969967
 https://www.facebook.com/groups/osadpa/permalink/674497199322477
 
+### 4. Quero ser programador e estou começando agora. Por qual linguagem devo começar?
+
+https://www.facebook.com/groups/osadpa/permalink/712896318815898
+https://www.facebook.com/groups/osadpa/permalink/711686558936874
+https://www.facebook.com/groups/osadpa/permalink/711638825608314
+https://www.facebook.com/groups/osadpa/permalink/713257758779754
+https://www.facebook.com/groups/osadpa/permalink/708440132594850
+https://www.facebook.com/groups/osadpa/permalink/712538072185056
+https://www.facebook.com/groups/osadpa/permalink/714257678679762
+
 **P.S.: É Java, não JAVA.**
