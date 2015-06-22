@@ -19,12 +19,19 @@ https://www.facebook.com/groups/osadpa/permalink/593678864070978
 
 ### 2. Por que vocês criticam tanto PHP?
 
+https://www.facebook.com/groups/osadpa/permalink/702794649826065
 https://www.facebook.com/groups/osadpa/permalink/708753659230164
 https://www.facebook.com/groups/osadpa/permalink/500641616708037
 
 
-### 3. Quero fazer faculdade de TI, mas não sei que curso escolher. Podem me ajudar?
+### 3. Quero fazer faculdade de TI, mas não sei que curso escolher. Podem me ajudar? (aka EC x SI x TADS x CC)
 
-
+https://www.facebook.com/groups/osadpa/permalink/705517966220400
+https://www.facebook.com/groups/osadpa/permalink/704744426297754
+https://www.facebook.com/groups/osadpa/permalink/704657446306452
+https://www.facebook.com/groups/osadpa/permalink/701373146634882
+https://www.facebook.com/groups/osadpa/permalink/701114483327415
+https://www.facebook.com/groups/osadpa/permalink/674688965969967
+https://www.facebook.com/groups/osadpa/permalink/674497199322477
 
 **P.S.: É Java, não JAVA.**
