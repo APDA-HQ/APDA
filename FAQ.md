@@ -14,9 +14,16 @@
 
 https://www.facebook.com/groups/osadpa/permalink/714049745367222
 https://www.facebook.com/groups/osadpa/permalink/712049552233908
+https://www.facebook.com/groups/osadpa/permalink/593678864070978
 
 
-### 2. Quero fazer faculdade de TI, mas não sei que curso escolher. Podem me ajudar?
+### 2. Por que vocês criticam tanto PHP?
+
+https://www.facebook.com/groups/osadpa/permalink/708753659230164
+https://www.facebook.com/groups/osadpa/permalink/500641616708037
+
+
+### 3. Quero fazer faculdade de TI, mas não sei que curso escolher. Podem me ajudar?
 
 
 
