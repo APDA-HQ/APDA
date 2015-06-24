@@ -44,4 +44,11 @@ https://www.facebook.com/groups/osadpa/permalink/708440132594850
 https://www.facebook.com/groups/osadpa/permalink/712538072185056
 https://www.facebook.com/groups/osadpa/permalink/714257678679762
 
+### 5. Qual é o melhor compilador de C/C++?
+
+**P.S.:** Dev-C++ é IDE, não compilador.
+##### Confusões
+https://www.facebook.com/groups/osadpa/permalink/694498877322309
+https://www.facebook.com/groups/osadpa/permalink/714919645280232
+
 **P.S.: É Java, não JAVA.**
