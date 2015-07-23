@@ -16,7 +16,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
 #### 1.1 Geral 
 - Se for perguntar algo, pergunte pelo grupo e não por mensagem na *caixa de entrada*. 
  - A sua dúvida pode ser a de mais pessoas. 
- - Eu não acho que deveria existir uma regra como essa, ela não deveria existir por que todos que fossem perguntar algo deveriam perguntar abertamente. 
+ - Eu não acho que deveria existir uma regra como essa, ela não deveria existir já que todos que fossem perguntar algo deveriam perguntar abertamente. 
  - Mas, anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
 - Não faremos o projeto todo para você. O grupo é feito pra te ajudar a aprender e não fazer por você.
 - Nunca, jamais, sob nenhuma circunstância, separe predicado por vírgula. 
@@ -29,10 +29,10 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
    - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código. Se quer algo completo, pague um programador pra isso.
 
 ####1.2 Conselhos 
-- Lembre-se, nem todos tem o mesmo conhecimento que você. Saiba respeitar a dificuldade do outro em aprender, afinal, tempos atrás você também não sabia.
-- Tenha paciência: nem todos estão aqui 24h para te ajudar; nem todos tem paciência para ajudar e nem todos querem ajudar.
-- Respeite para ser respeitado. Todos aqui no grupo tem os mesmos direitos, mesmos deveres.
-- Não seja idiota. Todos tem o direito sagrado de serem preguiçosos, mas não abusem dele. Perguntas extremamente simples que podem ser resolvidas rapidamente no Google ou na Wikipédia serão zoadas e/ou deletadas.
+- Lembre-se, nem todos têm o mesmo conhecimento que você. Saiba respeitar a dificuldade do outro em aprender, afinal, tempos atrás, você também não sabia.
+- Tenha paciência: nem todos estão aqui 24h para te ajudar; nem todos têm paciência para ajudar e nem todos querem ajudar.
+- Respeite para ser respeitado. Todos aqui no grupo têm os mesmos direitos, mesmos deveres.
+- Não seja idiota. Todos têm o direito sagrado de serem preguiçosos, mas não abusem dele. Perguntas extremamente simples que podem ser resolvidas rapidamente no Google ou na Wikipédia serão zoadas e/ou deletadas.
    
 ####1.3 Linguajar
 - Todos podem falar palavrão (não a vontis, usem o bom senso) caso sejam expressões de linguagem, usadas para se expressar, de boa fé e sem intuitos ofensivos.
@@ -41,12 +41,12 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
 
 
 ##2 - Leis Regentes
-   - É proíbido qualquer pedido que quebre as leis brasileiras (EX: Hackeia isso pra mim).
+   - É proibido qualquer pedido que quebre as leis brasileiras (EX: Hackeia isso pra mim).
    - Nada de pirataria. Não postaremos _cracks_ e nem daremos *.pdf de livros comerciais. Não que os moderadores se importem com direitos autorais, porém nós nos reservamos o direito de sermos trolls.
 
 ##3 Postagens
 - #### 3.1 Desejadas
-  - Usem sites especificos para colocar seu código: 
+  - Usem sites específicos para colocar seu código: 
     - [PasteBin](http://pastebin.com/)
     - [CodePad](http://codepad.org/)
     - [IDEOne](http://ideone.com/)
@@ -57,12 +57,12 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
 - #### 3.2 Aceitável
  - Erros de português são tolerados. 
    - *[ Não substitui as regras de Ortografia e peculiaridades ]*
- - Você é livre para postar o seu Website no A.P.D.A., DESDE QUE seja relacionado ao assunto e seja de ajuda aos membros. 
+ - Você é livre para postar o seu Website no grupo da A.P.D.A., DESDE QUE seja relacionado ao assunto e seja de ajuda aos membros. 
 
 - #### 3.4 Não Desejadas   
   - Coisas de "computeiro" não são bem vindas. 
-    - Nada de compartilhar coisas do "Tequimumdo", porque não tem graça, nem sobre Baidu ou essas coisas que usuário doméstico fica instalando no próprio computador.
-    - Evite criar postagens nos moldes "Ask for asking". Isto é, perguntar e indagar, querer respostas a algo que nos desperta a curiosidade. "Perguntar por perguntar", no entanto, não leva a nada. O importante é que ao serem explicitadas, as perguntas gerem um movimento interno, que nos leve a ir em busca das respostas que as resolvam.
+    - Nada de compartilhar coisas do "Tequimumdo", porque não têm graça, nem sobre Baidu ou essas coisas que usuário doméstico fica instalando no próprio computador.
+    - Evite criar postagens nos moldes "Ask for asking". Isto é, perguntar é indagar, querer respostas a algo que nos desperta a curiosidade. "Perguntar por perguntar", no entanto, não leva a nada. O importante é que ao serem explicitadas, as perguntas gerem um movimento interno, que nos leve a ir em busca das respostas que as resolvam.
 Perguntas tidas como "bobas" não nos parecem merecer crédito, são vistas com indiferença, não nos mobilizam a nada. Ao formular perguntas, devemos nos certificar de sua relevância e da verdadeira necessidade de respostas que resolvam o problema em questão.
 
 - #### 3.5 Inaceitável
@@ -70,7 +70,7 @@ Perguntas tidas como "bobas" não nos parecem merecer crédito, são vistas com 
  - Não ressuscitar tópicos antigos. 
    - Se o tópico que você leu é muito antigo e você tem uma duvida, CRIE um novo tópico. 
  - Nada de postar fotos de outros usuários com má fé. Bullying é feio, ai ai ai.
- - Não saia postando em vários lugares a mesma coisa. Se quer ajuda crie UM tópico no local correto.
+ - Não saia postando em vários lugares a mesma coisa. Se quer ajuda, crie UM tópico no local correto.
  - NINGUÉM AQUI É CEGO SUFICIENTE PRA NÃO CONSEGUIR LER LETRAS MINÚSCULAS, ESCREVA SEM O CAPSLOCK! ISSO ATRAPALHA E DEIXA SEU TEXTO CANSATIVO!
  - Não pode postar que criou um grupo no **Whatsapp**.
    - Os números de telefones de todo mundo que responder serão jogados no bate-papo da UOL e em seguida serão incluídos em sistemas de spam por SMS. *Depois não digam que não foram avisados!*
@@ -94,7 +94,7 @@ Perguntas tidas como "bobas" não nos parecem merecer crédito, são vistas com 
     
 
 #### 7 Respeito
-  - O grupo é dedicado a troca de informações, portando: xingamentos, palavras de baixo calão que ofendam membros, e coisas do tipo NÃO serão toleradas. 
+  - O grupo é dedicado à troca de informações, portando: xingamentos, palavras de baixo calão que ofendam membros, e coisas do tipo, NÃO serão toleradas. 
    - Caso o usuário prossiga falando palavras assim, serão tomadas providencias.
 
 
