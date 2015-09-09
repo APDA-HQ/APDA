@@ -12,6 +12,7 @@
 
 ### 1. Por que vocês criticam tanto Java?
 
+https://www.facebook.com/groups/osadpa/permalink/746955248743338
 https://www.facebook.com/groups/osadpa/permalink/714049745367222
 https://www.facebook.com/groups/osadpa/permalink/712049552233908
 https://www.facebook.com/groups/osadpa/permalink/593678864070978
