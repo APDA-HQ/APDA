@@ -36,3 +36,4 @@ Eu vou começar com um editor de MarkDown, porque o github tem um editor muito r
 #### Notícias
 - [Hacker News](https://news.ycombinator.com/)
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
+- [/r/programming](https://www.reddit.com/r/programming)
