@@ -42,6 +42,7 @@
 - https://www.facebook.com/groups/osadpa/permalink/708440132594850
 - https://www.facebook.com/groups/osadpa/permalink/712538072185056
 - https://www.facebook.com/groups/osadpa/permalink/714257678679762
+- https://www.facebook.com/groups/osadpa/permalink/776451002460429
 
 ### 5. Qual é o melhor compilador de C/C++?
 
