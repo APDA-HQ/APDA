@@ -33,6 +33,10 @@ Eu vou começar com um editor de MarkDown, porque o github tem um editor muito r
 - [Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 - [Como se tornar um desenvolvedor Front End](http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/) - Texto do [Willian Justen](https://github.com/willianjusten)
 
+#### Outros repositórios de conteúdo de desenvolvimento 
+
+- [Cerebro](https://github.com/cerebrobr) - O Cerebro é uma organização com o propósito de disseminar o conhecimento. 
+
 #### Notícias
 - [Hacker News](https://news.ycombinator.com/)
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
