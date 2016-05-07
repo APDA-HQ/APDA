@@ -43,6 +43,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
 ##2 - Leis Regentes
    - É proibido qualquer pedido que quebre as leis brasileiras (EX: Hackeia isso pra mim).
    - Nada de pirataria. Não postaremos _cracks_ e nem daremos *.pdf de livros comerciais. Não que os moderadores se importem com direitos autorais, porém nós nos reservamos o direito de sermos trolls.
+   - É proibido pedidos que ferem os termos de uso dos serviços. (EX: Bot para Whatsapp)
 
 ##3 Postagens
 - #### 3.1 Desejadas
