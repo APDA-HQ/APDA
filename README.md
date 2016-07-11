@@ -77,28 +77,29 @@ Perguntas tidas como "bobas" não nos parecem merecer crédito, são vistas com 
    - Os números de telefones de todo mundo que responder serão jogados no bate-papo da UOL e em seguida serão incluídos em sistemas de spam por SMS. *Depois não digam que não foram avisados!*
  - Não pode postar perguntas do tipo `Alguém já mexeu com *qualquercoisaaqui*?` ou `Alguém usa *qualquercoisaaqui*` ou `Alguém manja de *qualquercoisaaqui*`. Seja direto na sua pergunta. SEMPRE terá alguém que já mexeu com o que você quer saber, ou que entenda sobre o que você quer conversar. Tópicos assim serão excluídos após alguém falar `Sim, eu já mexi.`, `Sim, alguém já mexeu`, `Sim, alguém manja` ou coisas similares.
 
-#### 4 TAGS
+#### 4 *Tags*
  - Se seu post tem relação com programação, ele não precisa de tag nenhuma, mas, se quiser, você pode colocar a linguagem para facilitar (EX: **[C#]**, **[Cobol]**, etc.).
  - *Se seu post não tem relação com programação, mas sim com TI ou computação em geral, utilize a tag* **[OFF]** 
  - Se seu post é uma pergunta sobre Windows ou Linux (EX: Suporte técnico), utilize as tags **[Suporte Windows]**, **[Suporte Linux Debian]**, **[Suporte Slackware]**, enfim, coloque o sistema operacional para ser mais fácil de identificar.
  - Não pode usar `<blink>` (O `<marquee>` tá liberado.)!
 
 #### 5 Spam
-   - Links para outros grupos de TI ou coisas do tipo são proibidos. Apenas links para outros grupos de áreas relacionadas (por exemplo eletrônica) serão permitidos caso seja feito um pedido para um dos administradores.
+   - Links para outros grupos de TI ou coisas do tipo são proibidos. Apenas links para outros grupos de áreas relacionadas (por exemplo eletrônica) serão permitidos, e caso seja feito um pedido para um dos administradores.
 
 
 #### 6 Gato da Seriedade
  - A zoeira tem limites **SIM**. Quem disser que a zoeira não tem limites, vai pra rua na hora.
-  - O grupo tolera brincadeiras e desvios de assuntos, pois todos somos depressivos e precisamos nos divertir - porém, há momentos em que seriedade é necessária - tanto por posts dos administradores, quanto para alguns casos dos próprios membros (geralmente é o caso de enquetes abertas).
-  - Quando o emoticon **(=^・ｪ・^=)** estiver no tópico, significa que a zoeira será muito mais limitada dentro, e que o tópico tem intenções sérias, e a moderação será mais rígida. Usuários podem usar o Gato da Seriedade, porém há um limite - levarão um puxão de orelha se usarem com frequência.
+ - O grupo tolera brincadeiras e desvios de assuntos, pois todos somos depressivos e precisamos nos divertir - porém, há momentos em que seriedade é necessária - tanto por posts dos administradores, quanto para alguns casos dos próprios membros (geralmente é o caso de enquetes abertas).
+ - Quando o emoticon **(=^・ｪ・^=)** estiver no tópico, significa que a zoeira será muito mais limitada dentro, e que o tópico tem intenções sérias, e a moderação será mais rígida. Usuários podem usar o Gato da Seriedade, porém há um limite - levarão um puxão de orelha se usarem com frequência.
   
     
 
 #### 7 Respeito
-  - O grupo é dedicado à troca de informações, portando: xingamentos, palavras de baixo calão que ofendam membros, e coisas do tipo, NÃO serão toleradas. 
-   - Caso o usuário prossiga falando palavras assim, serão tomadas providencias.
+ - O grupo é dedicado à troca de informações, portanto xingamentos, palavras de baixo calão, ou que ofendam membros, e coisas do tipo, **NÃO** serão toleradas.
+ - Qualquer tipo de segregação e perseguição por conta de raça, orientação sexual ou identidade de gênero não será bem-vinda.
+ - Caso o usuário prossiga falando palavras assim, serão tomadas providências.
 
 
-#### 8 GITHUB
- - Este repositório é relacionado a série toda da Associação (APDA, AHDA, APSA) e alguns **não** administradores também terão acesso a esse repositório. Mas **TODA** modificação por **NÃO ADMINISTRADORES** deverá ser feita em um **fork** e aplicada via **pull-request**. Se algum não-administrador fizer um commit direto sem a autorização de um administrador, eu irei rastreá-lo, caçá-lo, e colocá-lo num mural :smile:
+#### 8 GitHub
+ - Este repositório é relacionado a série toda da Associação (APDA, AHDA e derivados) e alguns **não** administradores também terão acesso a esse repositório. Mas **TODA** modificação por **NÃO ADMINISTRADORES** deverá ser feita em um **fork** e aplicada via **pull-request**. Se algum não-administrador fizer um commit direto sem a autorização de um administrador, eu irei rastreá-lo, caçá-lo, e colocá-lo num mural :smile:
  - Se você tem um projeto legal para a APDA, você pode criar um repositório aqui e desenvolver ele aqui. Apenas converse com um administrador antes e fale sobre o projeto.
