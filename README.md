@@ -61,7 +61,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
  - Você é livre para postar o seu Website no grupo da A.P.D.A., DESDE QUE seja relacionado ao assunto e seja de ajuda aos membros. 
 
 - #### 3.4 Não Desejadas   
-  - Coisas de "computeiro" não são bem vindas. 
+  - Coisas de "computeiro" não são bem-vindas. 
     - Nada de compartilhar coisas do "Tequimumdo", porque não têm graça, nem sobre Baidu ou essas coisas que usuário doméstico fica instalando no próprio computador.
     - Evite criar postagens nos moldes "Ask for asking". Isto é, perguntar é indagar, querer respostas a algo que nos desperta a curiosidade. "Perguntar por perguntar", no entanto, não leva a nada. O importante é que ao serem explicitadas, as perguntas gerem um movimento interno, que nos leve a ir em busca das respostas que as resolvam.
 Perguntas tidas como "bobas" não nos parecem merecer crédito, são vistas com indiferença, não nos mobilizam a nada. Ao formular perguntas, devemos nos certificar de sua relevância e da verdadeira necessidade de respostas que resolvam o problema em questão.
