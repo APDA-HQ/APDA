@@ -75,7 +75,7 @@ Perguntas tidas como "bobas" não nos parecem merecer crédito, são vistas com 
  - NINGUÉM AQUI É CEGO SUFICIENTE PRA NÃO CONSEGUIR LER LETRAS MINÚSCULAS, ESCREVA SEM O CAPSLOCK! ISSO ATRAPALHA E DEIXA SEU TEXTO CANSATIVO!
  - Não pode postar que criou um grupo no **Whatsapp**.
    - Os números de telefones de todo mundo que responder serão jogados no bate-papo da UOL e em seguida serão incluídos em sistemas de spam por SMS. *Depois não digam que não foram avisados!*
- - Não pode postar perguntas do tipo `Alguém já mexeu com *qualquercoisaaqui*?` ou `Alguém usa *qualquercoisaaqui*` ou `Alguém manja de *qualquercoisaaqui*`. Seja direto na sua pergunta. SEMPRE terá alguém que já mexeu com o que você quer saber, ou que entenda sobre o que você quer conversar. Tópicos assim serão excluídos após alguém falar `Sim, eu já mexi.`, `Sim, alguém já mexeu`, `Sim, alguém manja` ou coisas similares.
+ - Não pode postar perguntas do tipo `Alguém já mexeu com *qualquercoisaaqui*?` ou `Alguém usa *qualquercoisaaqui*` ou `Alguém manja de *qualquercoisaaqui*`. Seja direto na sua pergunta. SEMPRE terá alguém que já mexeu com o que você quer saber, ou que entenda sobre o que você quer conversar (exceto se for sobre tipos dependentes, aí não tem mesmo). Tópicos assim serão excluídos após alguém falar `Sim, eu já mexi.`, `Sim, alguém já mexeu`, `Sim, alguém manja` ou coisas similares.
 
 #### 4 *Tags*
  - Se seu post tem relação com programação, ele não precisa de tag nenhuma, mas, se quiser, você pode colocar a linguagem para facilitar (EX: **[C#]**, **[Cobol]**, etc.).
