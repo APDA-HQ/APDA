@@ -19,6 +19,16 @@ Eu vou começar com um editor de MarkDown, porque o github tem um editor muito r
 - [Haskell: Primeiros passos e bookmarks](https://gist.github.com/pedropazello/ad01313e7e2a3eab9f46#haskell-primeiros-passos-e-bookmarks)
 - [Documentações de Linguagens](https://gist.github.com/marcoonroad/8a79b0e18dabcdb718c8)
 
+#### Cursos e vídeoaulas
+
+- [Python para zumbis](http://pycursos.com/python-para-zumbis/)
+- [Webschool.io - JavaScript (Youtube)](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
+- [Rodrigo Branas (Youtube)](https://www.youtube.com/user/rodrigobranas)
+- [Loiane Groner (Youtube)](https://www.youtube.com/user/Loianeg)
+- [Curso em Vídeo (Youtube)](https://www.youtube.com/user/cursosemvideo)
+- [Veduca](http://www.veduca.com.br/)
+- [Univesp TV (Youtube)](https://www.youtube.com/user/univesptv)
+
 #### Textos e discussões relevantes e/ou comuns
 
 - [O que é Programação Orientada a
