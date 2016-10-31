@@ -76,6 +76,9 @@ Perguntas tidas como "bobas" não nos parecem merecer crédito, são vistas com 
  - Não pode postar que criou um grupo no **Whatsapp**.
    - Os números de telefones de todo mundo que responder serão jogados no bate-papo da UOL e em seguida serão incluídos em sistemas de spam por SMS. *Depois não digam que não foram avisados!*
  - Não pode postar perguntas do tipo `Alguém já mexeu com *qualquercoisaaqui*?` ou `Alguém usa *qualquercoisaaqui*` ou `Alguém manja de *qualquercoisaaqui*`. Seja direto na sua pergunta. SEMPRE terá alguém que já mexeu com o que você quer saber, ou que entenda sobre o que você quer conversar. Tópicos assim serão excluídos após alguém falar `Sim, eu já mexi.`, `Sim, alguém já mexeu`, `Sim, alguém manja` ou coisas similares.
+ 
+- #### 3.6 Política
+ - Postagens de cunho político que venham a gerar desordem e não tenham relação com computação (ou que possuam grande parcialidade em relação a isso) serão deletadas sem prévio aviso. Tenhamos bom-senso. *Hoaxes* também serão deletados.
 
 #### 4 *Tags*
  - Se seu post tem relação com programação, ele não precisa de tag nenhuma, mas, se quiser, você pode colocar a linguagem para facilitar (EX: **[C#]**, **[Cobol]**, etc.).
