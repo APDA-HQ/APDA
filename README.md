@@ -8,7 +8,7 @@
 
 Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wiki).
 
-##Conheça as regras!
+## Conheça as regras!
 
    
 ## 1 Conduta
@@ -24,28 +24,28 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
  - Outros erros de português são tolerados - mas não abuse.
 
 
-####1.1 Convivência 
+#### 1.1 Convivência 
    - QUALQUER um que desrespeitar outro usuário será banido do grupo.
    - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código. Se quer algo completo, pague um programador pra isso.
 
-####1.2 Conselhos 
+#### 1.2 Conselhos 
 - Lembre-se, nem todos têm o mesmo conhecimento que você. Saiba respeitar a dificuldade do outro em aprender, afinal, tempos atrás, você também não sabia.
 - Tenha paciência: nem todos estão aqui 24h para te ajudar; nem todos têm paciência para ajudar e nem todos querem ajudar.
 - Respeite para ser respeitado. Todos aqui no grupo têm os mesmos direitos, mesmos deveres.
 - Não seja idiota. Todos têm o direito sagrado de serem preguiçosos, mas não abusem dele. Perguntas extremamente simples que podem ser resolvidas rapidamente no Google ou na Wikipédia serão zoadas e/ou deletadas.
    
-####1.3 Linguajar
+#### 1.3 Linguajar
 - Todos podem falar palavrão (não a vontis, usem o bom senso) caso sejam expressões de linguagem, usadas para se expressar, de boa fé e sem intuitos ofensivos.
     - *[ Não substitui as Regras de convivencia ]*
  
 
 
-##2 - Leis Regentes
+## 2 - Leis Regentes
    - É proibido qualquer pedido que quebre as leis brasileiras (EX: Hackeia isso pra mim).
    - Nada de pirataria. Não postaremos _cracks_ e nem daremos *.pdf de livros comerciais. Não que os moderadores se importem com direitos autorais, porém nós nos reservamos o direito de sermos trolls.
    - É proibido pedidos que ferem os termos de uso de seus respectivos serviços. (EX: Bot para Whatsapp)
 
-##3 Postagens
+## 3 Postagens
 - #### 3.1 Desejadas
   - Usem sites específicos para colocar seu código: 
     - [PasteBin](http://pastebin.com/)
