@@ -14,7 +14,8 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
 ## 1 - Conduta
 
 #### 1.1 Geral 
-- Se for perguntar algo, pergunte pelo grupo e não por mensagem na *caixa de entrada*. 
+- Se for perguntar algo, pergunte pelo grupo e não por mensagem na *caixa de entrada*.
+ - Evite também perguntas como "Alguém conhece X?" ou "Alguém ja usou Y?". Simplesmente pergunte informando o máximo de detalhes possível.
  - A sua dúvida pode ser a de mais pessoas. 
  - Eu não acho que deveria existir uma regra como essa, ela não deveria existir já que todos que fossem perguntar algo deveriam perguntar abertamente. 
  - Mas, anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
