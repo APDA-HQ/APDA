@@ -10,18 +10,23 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
 
 ## Conheça as regras!
 
-   
 ## 1 - Conduta
 
-#### 1.1 Geral 
+#### 1.1 Geral
+
 - Se for perguntar algo, pergunte pelo grupo e não por mensagem na *caixa de entrada*. 
- - A sua dúvida pode ser a de mais pessoas. 
- - Eu não acho que deveria existir uma regra como essa, ela não deveria existir já que todos que fossem perguntar algo deveriam perguntar abertamente. 
- - Mas, anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
+  - A sua dúvida pode ser a de mais pessoas. 
+  - Eu não acho que deveria existir uma regra como essa, ela não deveria existir já que todos que fossem perguntar algo deveriam perguntar abertamente. 
+  - Mas, anyways, tive de criar essa regra, então é sujeito a ban quem não segui-la.
 - Não faremos o projeto todo para você. O grupo é feito pra te ajudar a aprender e não fazer por você.
-- Nunca, jamais, sob nenhuma circunstância, separe predicado por vírgula. 
- - Quem separar predicado por vírgula aqui será violentado, defenestrado e então linchado. 
- - Outros erros de português são tolerados - mas não abuse.
+- Nunca, jamais, sob nenhuma circunstância, separe predicado por vírgula.
+  - Essa é a antiga regra 14 e ainda pode ser referenciada por esse número.
+  - Quem separar predicado por vírgula aqui será violentado, defenestrado e então linchado. 
+  - Outros erros de português são tolerados - mas não abuse.
+
+- Não pode ser feliz na APDA. O grupo é de programadores **depressivos**.
+  > Sai do meu grupo, *Torrens, Paulo*
+
 
 #### 1.2 Convivência 
    - QUALQUER um que desrespeitar outro usuário será banido do grupo.
