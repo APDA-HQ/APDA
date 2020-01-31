@@ -70,6 +70,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
 Perguntas tidas como "bobas" não nos parecem merecer crédito, são vistas com indiferença, não nos mobilizam a nada. Ao formular perguntas, devemos nos certificar de sua relevância e da verdadeira necessidade de respostas que resolvam o problema em questão.
 
 - #### 3.3 Inaceitável
+ - Tentativa de **Carteirada** com a utilização de diplomas ou graduações com qualquer intuito de menosprezar usuários contribuintes ou não. 
  - Se seu post não tem nenhuma relação com informática, ele será deletado.
  - Não ressuscitar tópicos antigos. 
    - Se o tópico que você leu é muito antigo e você tem uma duvida, CRIE um novo tópico. 
