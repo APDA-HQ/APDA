@@ -32,6 +32,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/APDA-HQ/APDA/wik
    - QUALQUER um que desrespeitar outro usuário será banido do grupo.
    - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código. Se quer algo completo, pague um programador pra isso.
    - Não pode fazer live no grupo sem camisa.
+   - Não pode postar foto de si mesmo sem camisa dizendo que tá procurando mulher.
 
 #### 1.3 Conselhos
 - Lembre-se, nem todos têm o mesmo conhecimento que você. Saiba respeitar a dificuldade do outro em aprender, afinal, tempos atrás, você também não sabia.
